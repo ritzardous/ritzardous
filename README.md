@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-riteshjha2174%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshjha2174@gmail.com)
+[![Gmail](https://img.shields.io/badge/-riteshjha.exe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshjha.exe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/-about--ritesh.netlify.app-1A1A1A?style=flat-square&logo=vercel&logoColor=white)](https://about-ritesh.netlify.app/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://ritzardous.medium.com/)
