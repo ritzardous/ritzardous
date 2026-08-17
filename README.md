@@ -59,12 +59,12 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical&hide_border=true&background=0D1117" alt="streak" width="49%" />
 
-</div>
+</div> -->
 
 
 <div align="center">
