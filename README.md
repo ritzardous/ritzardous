@@ -70,5 +70,5 @@
 <div align="center">
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=visitors&color=68A4FF&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/RiteshJha912?color=68A4FF&label=followers&style=flat-square" alt="followers" />
+<img src="https://img.shields.io/github/followers/ritzardous?color=68A4FF&label=followers&style=flat-square" alt="followers" />
 </div>
